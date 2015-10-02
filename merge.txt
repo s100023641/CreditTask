@@ -1,0 +1,5 @@
+HI 
+This is an example to demonstrate the 
+git merge conflict
+
+This is the line where the change will be made
